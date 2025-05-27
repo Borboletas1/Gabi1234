@@ -1,6 +1,4 @@
 Oiii! Eu sou Gabriela Souza  👋
-
-
 <div> 
 ### 🚀 Tecnologias que uso no meu dia
 <div style="display: inline_block"><br/>
