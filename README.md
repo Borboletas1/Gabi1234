@@ -14,10 +14,10 @@
   ##
    <br><img src="https://img.shields.io/badge/-Redes%20Sociais-lightpink?style=for-the-badge" alt="Redes Sociais"/>
 
-<a href="https://www.instagram.com/gabxssouza/" target="_blank">
+<a href="https://www.instagram.com/gabxssouza?igsh=MXVsa2E3MDBvYXQzOA%3D%3D&utm_source=qr" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/gabriela-souza-005180327/](https://www.linkedin.com/in/gabriela-souza-005180327?trk=contact-info)" target="_blank">
+<a href="https://www.linkedin.com/in/gabriela-souza-005180327?trk=contact-info" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
